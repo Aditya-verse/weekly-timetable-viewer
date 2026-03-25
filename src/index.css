@@ -210,3 +210,36 @@ body::before {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+/* --- Print & Export Optimization --- */
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+
+  /* Hide UI elements not needed on paper */
+  header, footer, button, .atmosphere, .tutorial-highlight, a[download] {
+    display: none !important;
+  }
+
+  .glass-card {
+    background: white !important;
+    border: 1px solid #000 !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+  }
+
+  /* Force strong contrast for text */
+  * {
+    color: black !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Optimize for A4 */
+  @page {
+    margin: 1cm;
+    size: A4 portrait;
+  }
+}
