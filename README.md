@@ -5,6 +5,18 @@
 
 ---
 
+### 🚀 Live Website
+
+🌐 **[https://sembuddy-1adc2.web.app](https://sembuddy-1adc2.web.app)**
+🌐 **[https://sembuddy-1adc2.firebaseapp.com](https://sembuddy-1adc2.firebaseapp.com)**
+🌐 **[https://sembuddy-web.netlify.app](https://sembuddy-web.netlify.app)**
+
+[![Firebase](https://img.shields.io/badge/Firebase-Live-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://sembuddy-1adc2.web.app)
+[![Netlify](https://img.shields.io/badge/Netlify-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sembuddy-web.netlify.app)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsembuddy-web.netlify.app&style=for-the-badge&label=Status&up_message=Online&down_message=Offline)](https://sembuddy-web.netlify.app)
+
+---
+
 ### 🏆 Premium Tech Badges
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
